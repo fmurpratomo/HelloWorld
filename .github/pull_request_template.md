@@ -7,7 +7,8 @@ How does this change or address the problem?
 ## Additional Info
 Any additional information or context
 <details>
-  <summary>summary</summary>
-  detailfoto
-  detailvideo
+  <summary>Summary</summary>
+  Detailsamplefoto
+  
+  Detailvideo
 </details>
