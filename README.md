@@ -4,3 +4,4 @@
 # fix sample pr title
 
 # sample feature
+# sample docs
